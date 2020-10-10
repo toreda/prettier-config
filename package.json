@@ -1,0 +1,10 @@
+{
+  "name": "@toreda/prettier-config",
+  "version": "1.0.0",
+  "public": true,
+  "description": "Toreda's standard prettier config for organization-wide use in all TypeScript projects.",
+  "main": "index.json",
+  "repository": "https://github.com/toreda/prettier-config",
+  "author": "Toreda, Inc.",
+  "license": "MIT"
+}

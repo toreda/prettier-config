@@ -1,0 +1,26 @@
+{
+	"tabWidth": 4,
+	"useTabs": true,
+	"printWidth": 110,
+	"proseWrap": "preserve",
+	"semi": true,
+	"trailingComma": "none",
+	"singleQuote": true,
+	"bracketSpacing": false,
+	"arrowParens": "always",
+	"endOfLine": "lf",
+	"overrides": [
+		{
+			"files": "./src/**.ts",
+			"options": {
+				"tabWidth": 4
+			}
+		},
+		{
+			"files": "./src/*/**.ts",
+			"options": {
+				"tabWidth": 4
+			}
+		}
+	]
+}
