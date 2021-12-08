@@ -1,25 +1,26 @@
 
-# `@toreda/prettier-config`
-
 ![Toreda](https://content.toreda.com/logo/toreda-logo.png)
+
+# `@toreda/prettier-config`
 
 Toreda's official organization-wide `prettier-config` for TypeScript projects.
 
-## Usage
+&nbsp;
+# Usage
 
-### Install using yarn
+## Install using yarn
 
 ```bash
 $ yarn add @toreda/prettier-config --dev
 ```
 
-### Install using npm
+## Install using npm
 ```bash
 $ npm add @toreda/prettier-config --save-dev
 ```
 
-
-### Add to Project
+&nbsp;
+# Add to Project
 1. Navigate to your project's root folder.
 2. Open `package.json`
 3. Add a `prettier` key pointing to `@toreda/prettier-config`:
@@ -33,7 +34,9 @@ $ npm add @toreda/prettier-config --save-dev
 
 **Note: If your `package.json` already contains a `prettier` key, you will need to replace the value with the value shown above.**
 
-#### Example
+&nbsp;
+
+# Examples
 
 Here's a complete `package.json` example using the prettier key:
 
