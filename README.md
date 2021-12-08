@@ -1,5 +1,5 @@
 
-![Toreda](https://content.toreda.com/logo/toreda-logo.png)
+[![Toreda](https://content.toreda.com/logo/toreda-logo.png)](https://www.toreda.com)
 
 # `@toreda/prettier-config`
 
