@@ -55,3 +55,16 @@ Here's a complete `package.json` example using the prettier key:
 }
 
 ```
+
+&nbsp;
+
+# Legal
+
+## License
+
+[MIT](LICENSE) &copy; Toreda, Inc.
+
+## Copyright
+Copyright &copy; 2019 - 2021 Toreda, Inc. All Rights Reserved.
+
+https://www.toreda.com
