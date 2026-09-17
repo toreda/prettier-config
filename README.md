@@ -3,21 +3,12 @@
 
 # `@toreda/prettier-config`
 
-Toreda's official organization-wide `prettier-config` for TypeScript projects.
+`prettier-config` for Toreda TypeScript projects.
 
 &nbsp;
 # Usage
 
-## Install using yarn
-
-```bash
-$ yarn add @toreda/prettier-config --dev
-```
-
-## Install using npm
-```bash
-$ npm add @toreda/prettier-config --save-dev
-```
+Requires Prettier 3.0 or later. Prettier is a peer dependency, so install it alongside this package.
 
 &nbsp;
 # Add to Project
@@ -65,6 +56,6 @@ Here's a complete `package.json` example using the prettier key:
 [MIT](LICENSE) &copy; Toreda, Inc.
 
 ## Copyright
-Copyright &copy; 2019 - 2021 Toreda, Inc. All Rights Reserved.
+Copyright &copy; 2019 - 2026 Toreda, Inc. All Rights Reserved.
 
 https://www.toreda.com
